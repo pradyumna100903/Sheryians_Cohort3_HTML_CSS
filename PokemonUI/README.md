@@ -5,4 +5,4 @@ A Pokémon landing page UI using  HTML & CSS.
 
 ## Preview
 
-![Pokemon UI](assets/.png)
+![Pokemon UI](assets/Preview.png)
